@@ -64,10 +64,11 @@ The README file includes clear instructions on how to run the project locally an
 To run this project locally, follow these steps:
 
 1. Open the project Folder and the new Terminal.
-2. Run the command `npx create-react-app react-app-name`.
-3. Run the command `cd react-app-name`.
-4. Run the Development Server: Start the development server by running `npm start`.
-5. Build for Production:
+2. Run the command
+   bash
+   ``` cd react-app-folder```
+5. Run the Development Server: Start the development server by running `npm start`.
+6. Build for Production:
    - Run `npm install -g serve`.
    - Run `serve -s build`.
 
