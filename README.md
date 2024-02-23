@@ -79,11 +79,5 @@ When you want to run the project by using the command:
 
 ## Deployment on Render
 
-1. Create a Render account at [Render](https://render.com/).
-2. Connect your repository to Render.
-3. Configure the deployment settings (branch, build command, publish directory, etc.).
-4. Optionally set up environment variables, custom domains, and SSL.
-5. Create a Web Service on Render, specifying it as a "Static Site".
-6. Deploy your changes, and access your live React application.
-
+1. Render Deployment link: `https://readme-xkss.onrender.com/`
 For more detailed instructions, refer to the [Render Docs](https://render.com/docs).
