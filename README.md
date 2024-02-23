@@ -65,8 +65,7 @@ To run this project locally, follow these steps:
 
 1. Open the project Folder and the new Terminal.
 2. Run the command
-   bash
-   ``` cd react-app-folder```
+   ```bash cd react-app-folder```
 5. Run the Development Server: Start the development server by running `npm start`.
 6. Build for Production:
    - Run `npm install -g serve`.
