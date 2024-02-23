@@ -69,6 +69,9 @@ npm start
 ```
 ## Deployment on Render
 
-1. Render Deployment link: ``` bash https://readme-xkss.onrender.com/ ```
+1. Render Deployment link:
+``` bash
+https://readme-xkss.onrender.com/
+```
 
 For any further assistance or clarification reach out to mail : shaikzohaibgec@gmail.com
