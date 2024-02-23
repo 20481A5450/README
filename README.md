@@ -53,11 +53,6 @@ The README file includes clear instructions on how to run the project locally an
 - Implements smooth transitions/animations throughout the application using libraries like Framer Motion, GSAP, or similar.
 - Uses animations for page transitions, hover effects on product thumbnails, and other areas to enhance user experience.
 
-## Bonus Features (Optional)
-
-- Responsive design for mobile and tablet devices.
-- User authentication and persistent cart/wishlist storage using local storage or backend services.
-- Incorporation of advanced animations such as parallax scrolling and interactive elements.
 
 ## How to Run the Project
 
@@ -68,18 +63,11 @@ To run this project locally, follow these steps:
 ```bash
 cd react-app-folder
 ```
-5. Run the Development Server: Start the development server by running `npm start`.
-6. Build for Production:
-   - Run `npm install -g serve`.
-   - Run `serve -s build`.
-
-When you want to run the project by using the command:
-
-1. `cd project-app-name`.
-2. `npm install`.
-3. `npm start`.
-
+5. Run the Development Server: Start the development server by running
+```bash
+npm start
+```
 ## Deployment on Render
 
 1. Render Deployment link: `https://readme-xkss.onrender.com/`
-For more detailed instructions, refer to the [Render Docs](https://render.com/docs).
+For any further assistance or clarification reach out to mail : shaikzohaibgec@gmail.com
